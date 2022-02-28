@@ -14,10 +14,13 @@
 </table>
 
 ## Personal Information
+I didn't think of anything to write...
 
 ## News
 Hello World
 
+
+## About Me
 ### Game
 ### Music
 ### Create
