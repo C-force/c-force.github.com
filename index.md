@@ -2,6 +2,7 @@
   <tr>
     <td width="25%">
       <img src="/images/menhara.png" width="100%">
+      <img src="/images/food.png" width="100%">
     </td>
     <td width="75%">
       <h1>Cubic Curve</h1>
